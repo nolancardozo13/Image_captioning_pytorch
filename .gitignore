@@ -1,0 +1,8 @@
+
+caption_data
+
+# Ignore all below files
+*.json
+*.jpg
+*.hdf5
+*.tar
